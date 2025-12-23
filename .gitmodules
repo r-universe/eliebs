@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "depcoeff"]
 	path = depcoeff
-	url = https://github.com/cran/depcoeff
+	url = https://github.com/eliebs/depcoeff
